@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://chaudhuree.github.io/csb-3zb6bk/static/css/main.543e05e3.css",
+    "main.js": "https://chaudhuree.github.io/csb-3zb6bk/static/js/main.e3c8f5c5.js",
+    "index.html": "https://chaudhuree.github.io/csb-3zb6bk/index.html",
+    "main.543e05e3.css.map": "https://chaudhuree.github.io/csb-3zb6bk/static/css/main.543e05e3.css.map",
+    "main.e3c8f5c5.js.map": "https://chaudhuree.github.io/csb-3zb6bk/static/js/main.e3c8f5c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.543e05e3.css",
+    "static/js/main.e3c8f5c5.js"
+  ]
+}
